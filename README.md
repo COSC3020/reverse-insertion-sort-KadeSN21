@@ -39,3 +39,5 @@ most important -- you can easily find the answer, but you need to demonstrate
 that you've understood the concept. Add your answer to this markdown file.
 
 The average case of insertion sort is also $\Theta(n^2)$, this is because isertion sort is a nested loop. two loops are ran, each taking $\Theta(n)$ (for n elements), thus a $\Theta(n^2)$ complexity.
+
+Help: ChatGPT and Stackoverflow.com
