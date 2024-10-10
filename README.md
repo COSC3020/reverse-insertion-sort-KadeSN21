@@ -40,4 +40,6 @@ that you've understood the concept. Add your answer to this markdown file.
 
 The average case of insertion sort is also $\Theta(n^2)$, this is because isertion sort is a nested loop. two loops are ran, each taking $\Theta(n)$ (for n elements), thus a $\Theta(n^2)$ complexity.
 
-Help: ChatGPT and Stackoverflow.com
+Help: ChatGPT gave me a better idea on how a reverse insertion sort works when compared to regular insertion sort, which I then used to write a code implementation.
+
+“I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
